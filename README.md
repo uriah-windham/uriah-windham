@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @uriah-windham
+- 👋 Hi, I’m Uriah Windham
 - 👀 I’m interested in learning as much as I can about code
-- 🌱 I’m currently Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any new project to practice my Back-End Development skills
 - 📫 How to reach me - uswindham99@gmail.com
 
